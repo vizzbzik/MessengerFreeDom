@@ -1,8 +1,0 @@
-
-services:
-  - type: web
-    name: freedommessenger
-    env: docker
-    plan: free
-    branch: main
-    autoDeploy: true
